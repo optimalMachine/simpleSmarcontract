@@ -1,2 +1,3 @@
-# simpleSmarcontract
-Simple smartcontract project using Solidity
+# Simple Smart Sontract 
+
+Smart Contract project using Solidity
